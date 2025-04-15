@@ -1,4 +1,4 @@
-# SQL-Project
+#  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL-For Backend" /></a> SQL-Project
 # 🛠️ DSQL & Relational Databases
 
 This repository contains my SQL-based classwork and research from Week 3 of the Data Technician course. It demonstrates my understanding of core relational database concepts, SQL syntax, and the ability to apply database theory to real-world business scenarios.
