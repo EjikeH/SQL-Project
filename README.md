@@ -7,14 +7,14 @@ This repository contains my SQL-based classwork and research from Week 3 of the 
 
 ## 📚 Topics Covered
 
-### ✅ Day 1: Database Fundamentals
+### ✅ Database Fundamentals
 - Differences between **primary**, **secondary**, and **foreign** keys
 - Examples of **one-to-one**, **one-to-many**, and **many-to-many** relationships
 - Comparison between **relational** and **non-relational** databases
 - Use cases for NoSQL vs. SQL
 
 
-### ✅ Day 3: SQL JOIN Types (with examples)
+### ✅ SQL JOIN Types (with examples)
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
@@ -25,7 +25,7 @@ This repository contains my SQL-based classwork and research from Week 3 of the 
 
 ---
 
-## 💻 Day 4: SQL Practical Tasks
+## 💻 SQL Practical Tasks
 
 Using the `world_db` dataset, I answered various business-driven SQL scenarios including:
 
@@ -65,9 +65,7 @@ Wrote a 500-word essay on:
 - SQL examples for `CREATE TABLE`, `INSERT`, and `FOREIGN KEY` usage
 - Best practices for maintenance, backups, and scalability
 <img width="600" alt="Northwind_E-R_Diagram" src="https://github.com/user-attachments/assets/67867e0e-d595-45f4-aea5-be1744cc6502" />
-<br>
-<br>
-![Screenshot 2025-03-25 142407](https://github.com/user-attachments/assets/868bad7e-fb9a-4913-aa3b-c1e14698239f)
+
 
 This simulates a real-world database design project for a local convenience store.
 
